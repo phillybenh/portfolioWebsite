@@ -1,54 +1,39 @@
-# Build A Portfolio Website
+# This project was adapted from a template on html5up.net
 
-With all of the projects you will be working on here at Lambda School, you will need somewhere to house them!  There is no better opportunity to learn and show off your skills than a beautiful portfolio website.  
+- Please see my project for original work by Ben Haus
 
-You have the ability to write HTML, CSS, and responsive media queries.  You also know how to identify and write responsive units.  It's time to put that knowledge into action by reading someone else's code and adding your own flavor.  You will be building a portfolio website from a template found on [https://html5up.net/](https://html5up.net/).
+- Thanks AJ.
 
-## Project Set Up
+## Template Info:
 
-### Follow these steps to set up and work on your project:
-
-_ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
-
-- [x] Create a forked copy of this project.
-- [x] Add PM as collaborator on Github.
-- [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [x] Create a new branch on the clone: `git checkout -b <firstName-lastName>`.
-- [ ] Implement the project on the `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: `git push origin <firstName-lastName>`.
-
-### Follow these steps to download your template and start the project:
-
-- [x] Navigate here: [https://html5up.net/](https://html5up.net/)
-- [x] You make pick any template you like.  Here are some good choices for a portfolio:
-	- [https://html5up.net/story](https://html5up.net/story)
-	- [https://html5up.net/solid-state](https://html5up.net/solid-state)
-	- [https://html5up.net/miniport](https://html5up.net/miniport)
-	- [https://html5up.net/dimension](https://html5up.net/dimension)
-
-- [x] Unzip the code and copy the site to your git repository that you just set up
-  * Note that we won't be utilizing the pre processed CSS structure, you can just ignore any folder with LESS or SASS (SCSS) in it.
-- [x] Work on the MVP requirements listed below
-
-### Follow these steps for completing your project after your MVP is completed:
-
-- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
-- [ ] Add your Project Manager as a Reviewer on the Pull-request
-- [ ] PM then will count the HW as done by merging the branch back into master.
-
-## MVP Requirements
-
-- [x] Study the code base and identify both responsive units and where media queries were used.  Take notes on anything that confuses you or interesting things you find.  Share this information in your standup meeting with your group
-- [ ] Customize the template to you 
-	- [x] Update the title tag match your name
-	- [x] Update the place holder content throughout the template to your information
-		* Some templates are much larger than others, you don't need to fill in every little div with information, just try to get the site representing you and your work 
-		* You can use sites like [https://www.pexels.com/](https://www.pexels.com/) for free images to fill in place holders
-		* Showcase projects you have worked on by providing some information and links to your git hub projects
-- [x] Implement proper attribution: Attribution is required under the [creative commons license](https://html5up.net/license) that came with the website files you downloaded.  Be sure to provide attribution somewhere in the site.  The templates should already come with attribution found in most footers but double check to be sure.
-- [ ] Host your website for the world to see. Follow the instructions found here [https://pages.github.com/](https://pages.github.com/).  Once you have hosted your web page, share it for your peers to see.  This is not a small feat!
-
-## Stretch
-
-- [ ] Study the JavaScript used in your template and see if you can tweak any of the behavior to see how it works
-- [ ] Download another template and see if you can get the CSS preprocessor working on the project
+> Solid State by HTML5 UP
+> html5up.net | @ajlkn
+> Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+> 
+> 
+> After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
+> more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
+> pager that combines some of the ideas I've played with over at Pixelarity with an "angular"
+> sort of look. Hope you dig it :)
+> 
+> Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+> you can use for pretty much whatever.
+> 
+> (* = not included)
+> 
+> AJ
+> aj@lkn.io | @ajlkn
+> 
+> 
+> Credits:
+> 
+> 	Demo Images:
+> 		Unsplash (unsplash.com)
+> 
+> 	Icons:
+> 		Font Awesome (fontawesome.io)
+> 
+> 	Other:
+> 		jQuery (jquery.com)
+> 		Scrollex (github.com/ajlkn/jquery.scrollex)
+> 		Responsive Tools (github.com/ajlkn/responsive-tools)
