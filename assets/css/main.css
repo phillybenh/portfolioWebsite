@@ -3571,3 +3571,7 @@ body.is-preload #banner p {
 		padding: 2em 1.5em 0.1em 1.5em;
 	}
 }
+
+.hidden {
+  display: none;
+}
