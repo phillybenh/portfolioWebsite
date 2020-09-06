@@ -3257,7 +3257,7 @@ body.is-preload #banner p {
 }
 
 .wrapper.spotlight .image {
-	border-radius: 100%;
+	border-radius: 5px;
 	margin: 0 3em 2em 0;
 	width: 22em;
 	overflow: hidden;
@@ -3265,7 +3265,7 @@ body.is-preload #banner p {
 }
 
 .wrapper.spotlight .image img {
-	border-radius: 100%;
+	border-radius: 5px;
 	width: 100%;
 }
 
